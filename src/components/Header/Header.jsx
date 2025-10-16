@@ -10,7 +10,7 @@ function Header() {
     <header className="py-8 shadow-md">
       <div className="container flex items-center">
         <Link className="font-bold flex gap-3 items-center text-2xl text-primary" to="/">
-         <img className="w-13 h-10 " src="../../../public/onion.png" alt="" /> piyoz market
+         <img className="w-13 h-10 " src="onion.png" alt="" /> piyoz market
         </Link>
 
         <div className="ml-auto">
